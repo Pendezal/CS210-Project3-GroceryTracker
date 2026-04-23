@@ -1,4 +1,3 @@
-Summarize the project and what problem it was solving.
 
 For this portfolio project, I developed a C++ program that analyzes grocery item purchase data by tracking how often each item appears in a file. The program reads input data, calculates item frequencies, and allows the user to interact with the results through a menu system. This project solves the problem of organizing and analyzing raw grocery data into meaningful information, such as how often specific items are purchased. It demonstrates how programs can be used to process data efficiently and present it in a way that is easy for users to understand.
 
